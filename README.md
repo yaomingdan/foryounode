@@ -1,2 +1,2 @@
 # foryounode
-利用nodejs编写的小web框架
+利用nodejs编写的服务框架，目前未开源
